@@ -5,6 +5,15 @@ The app incorporates AR to help the user select from a collection of furniture a
 1. Unity3d
 2. AR Core
 3. C#
+# Images
+<img src= "images/Blank Table.jpeg" width= 300 height= 300>. <img src= "images/Table Pointer.jpeg" width= 300 height= 300>. <img src= "images/Lamp Yellow.jpeg" width= 300 height= 300>.
+<img src= "images/Lamp Brown Rotated.jpeg" width= 300 height= 300>. <img src= "images/Lamp Brown.jpeg" width= 300 height= 300>. <img src= "images/Tiles.jpeg" width= 300 height= 300>.
+# Areas To Contribute
+1. Have a more diverse range of furniture and other decor items.
+2. Include a display card for the furniture items.
+3.Have a smoother interface and better UI.
+4. Better tile detection system.
+5. Work upon the rotation and scaling of the objects.
 # How to Contribute?
 If you have found an issue that you can solve, follow these steps to create a pull request.
 1. Fork this repository.

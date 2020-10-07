@@ -1,9 +1,10 @@
 # Interiorismo_AR
-An Interior decor AR app
-
-
-
-
+An Interior decor AR app.
+The app incorporates AR to help the user select from a collection of furniture and tiles and to see how the real selected object would look in the surroundings.
+# Tech Stack
+1. Unity3d
+2. AR Core
+3. C#
 # How to Contribute?
 If you have found an issue that you can solve, follow these steps to create a pull request.
 1. Fork this repository.
